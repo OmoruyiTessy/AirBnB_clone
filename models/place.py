@@ -2,7 +2,7 @@
 """This module creates a Place class"""
 
 from models.base_model import BaseModel
-
+fabrice
 
 class Place(BaseModel):
     """Class for managing place objects"""
